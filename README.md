@@ -1,7 +1,6 @@
-- 👀 I’m interested in HTML/CSS/A.I
-- 🌱 I’m currently learning HTML/CSS/PYTHON/GML
-- 💞️ I’m looking to collaborate on Projects with A.I or something
-- 📫 How to reach me: Discord: aaaaaaaaaaaaa#1236 or Gmail: unbankatmunista@gmail.com
+- Interested in HTML/CSS/JS/A.I
+- Learning HTML/CSS/PYTHON/GML
+- How to reach me: Discord: aaaaaaaaaaaaa#1236 or Gmail: unbankatmunista@gmail.com
 - EN/US - PT/BR 
 <!---
 vitinbeyblade/vitinbeyblade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
