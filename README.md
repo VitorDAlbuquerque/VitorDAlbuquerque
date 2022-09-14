@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @vitinbeyblade
 - 👀 I’m interested in HTML/CSS/A.I
 - 🌱 I’m currently learning HTML/CSS/PYTHON/GML
 - 💞️ I’m looking to collaborate on Projects with A.I or something
