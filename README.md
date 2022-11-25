@@ -1,6 +1,6 @@
 - Interested in HTML/CSS/JS/A.I
 - Learning HTML/CSS/PYTHON/GML
-- How to reach me: Discord: aaaaaaaaaaaaa#1236 or Gmail: unbankatmunista@gmail.com
+- How to reach me: Discord: aaaaaaaaaaaaa#1236 or Gmail: vitinhoadias@gmail.com
 - EN/US - PT/BR 
 <!---
 vitinbeyblade/vitinbeyblade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
