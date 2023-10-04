@@ -1,5 +1,5 @@
 - Interested in HTML/CSS/JS/A.I
-- Learning HTML/CSS/PYTHON/GML
+- Learning HTML/CSS/PYTHON/JAVA
 - How to reach me: Discord: aaaaaaaaaaaaa#1236 or Gmail: vitinhoadias@gmail.com
 - EN/US - PT/BR 
 - Desenvolvimento de Software Multiplataforma - Fatec Zona Leste
