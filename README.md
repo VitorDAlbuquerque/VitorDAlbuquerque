@@ -1,6 +1,6 @@
-- Interested in HTML/CSS/JS/A.I
-- Learning HTML/CSS/PYTHON/JAVA
-- How to reach me: Discord: aaaaaaaaaaaaa#1236 or Gmail: vitinhoadias@gmail.com
+- Interested in JAVA/A.I/NODE
+- Learning JAVA/NODE
+- How to reach me: Discord: vitorkin or Gmail: vitordiasdealbuquerque@gmail.com
 - EN/US - PT/BR 
 - Desenvolvimento de Software Multiplataforma - Fatec Zona Leste
 <!---
